@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "953237974185",
+    "firebase_url": "https://hajj-firebase.firebaseio.com",
+    "project_id": "hajj-firebase",
+    "storage_bucket": "hajj-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953237974185:android:31c8f925503ccff8",
+        "android_client_info": {
+          "package_name": "com.hajj.noti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953237974185-02nqdsb00l0th8f04vjj64f9isaaeqgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEDgIvgQU05ky90bfs5dgiRoeWMm8ADaY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
